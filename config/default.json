@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "host": "192.168.2.199",
+    "user": "administrator@wealthup.co.th",
+    "pass": "P@ssw0rd",
+    "ignoreExpiration": true,
+    "public": "./vendor/keys/jwtRS256.key.pub",
+    "private": "./vendor/keys/jwtRS256.key",
+    "secret": "FkZQv6bTw5vo6C50RnC2WzfkoKEJfCFv"
+  }
+}
